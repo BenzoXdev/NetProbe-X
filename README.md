@@ -144,4 +144,4 @@ Use responsibly and only on networks and hosts you are authorized to scan.
 ## Contributing
 
 Improvements and fixes are welcome (e.g. via pull requests or issues). Keep the code in English and the README aligned with the current CLI and behavior.
-Co-authored-by: test <test@test.com>
+
